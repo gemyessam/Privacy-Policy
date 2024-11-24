@@ -5,7 +5,7 @@
     <title>Open Privacy Policy</title>
 </head>
 <body>
-    <button onclick="window.open('https://gemyessam.github.io/Privacy-Policy/Privacy-Policy', '_blank')">
+    <button onclick="window.open('https://gemyessam.github.io/Privacy-Policy/Privacy-Policy.html', '_blank')">
         Open Privacy Policy
     </button>
 </body>
